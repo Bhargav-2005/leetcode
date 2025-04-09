@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhargav-2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+## Hash Table
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhargav-2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 <!---LeetCode Topics End-->
