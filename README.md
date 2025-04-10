@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhargav-2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhargav-2005/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhargav-2005/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
