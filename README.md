@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhargav-2005/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Bhargav-2005/leetcode/tree/master/2998-count-symmetric-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Bhargav-2005/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
