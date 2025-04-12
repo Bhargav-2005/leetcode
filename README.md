@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Bhargav-2005/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Bhargav-2005/leetcode/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Bhargav-2005/leetcode/tree/master/0137-single-number-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhargav-2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
