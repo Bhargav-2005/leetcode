@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Bhargav-2005/leetcode/tree/master/0137-single-number-ii) |
+| [1656-count-good-triplets](https://github.com/Bhargav-2005/leetcode/tree/master/1656-count-good-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhargav-2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
@@ -65,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Bhargav-2005/leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Bhargav-2005/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
