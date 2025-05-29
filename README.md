@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack
 |  |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Bhargav-2005/leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Bhargav-2005/leetcode/tree/master/2998-count-symmetric-integers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
