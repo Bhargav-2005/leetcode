@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Bhargav-2005/leetcode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhargav-2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Array
 |  |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhargav-2005/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Bhargav-2005/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bhargav-2005/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhargav-2005/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Bhargav-2005/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bhargav-2005/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhargav-2005/leetcode/tree/master/0100-same-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Bhargav-2005/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
