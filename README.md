@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Bhargav-2005/leetcode/tree/master/0292-nim-game) |
 | [2998-count-symmetric-integers](https://github.com/Bhargav-2005/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Bhargav-2005/leetcode/tree/master/0143-reorder-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhargav-2005/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhargav-2005/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
