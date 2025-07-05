@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhargav-2005/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Bhargav-2005/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Bhargav-2005/leetcode/tree/master/0190-reverse-bits) |
 ## Tree
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhargav-2005/leetcode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/Bhargav-2005/leetcode/tree/master/0292-nim-game) |
 | [2998-count-symmetric-integers](https://github.com/Bhargav-2005/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhargav-2005/leetcode/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bhargav-2005/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bhargav-2005/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
