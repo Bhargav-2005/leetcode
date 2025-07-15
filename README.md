@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bhargav-2005/leetcode/tree/master/0067-add-binary) |
+| [3396-valid-word](https://github.com/Bhargav-2005/leetcode/tree/master/3396-valid-word) |
 ## Simulation
 |  |
 | ------- |
